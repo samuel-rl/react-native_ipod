@@ -16,19 +16,13 @@ const data: Music[] = [
     artist: 'Daaraj Family',
     title: 'Jamono',
     cover:
-      'https://secureservercdn.net/198.71.233.87/awf.1c5.myftpupload.com/wp-content/uploads/2020/02/Jamono-Cover-single-web.jpg?time=1607753014',
-  },
-  {
-    artist: 'Camille Esteban',
-    title: 'Chico',
-    cover:
-      'https://lh3.googleusercontent.com/proxy/Kw0bBD9XB3LAj7lapEL02aSdC74YIPcxIGKe5Ky2Jo3DL3LV93vY29av8WEqKrudTi4jw1rw212xaIgN-RB4yt72-Dk3hKtK1nmdV7jly2xsjA_seNAt7F4CTgx_T2UlJ6-ZyUKf-wf-9k-0D93-pqgpCOcn5WTG6adVvDbtUpCl',
+      'https://secureservercdn.net/198.71.233.87/awf.1c5.myftpupload.com/wp-content/uploads/2020/02/Jamono-Cover-single-web.jpg',
   },
   {
     artist: 'Dervaba',
     title: 'GHOSTS',
     cover:
-      'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/ghosts-cd-cover-template-design-588174bffe0bcb491737d700db8e77df_screen.jpg?ts=1561502803',
+      'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/ghosts-cd-cover-template-design-588174bffe0bcb491737d700db8e77df_screen.jpg?',
   },
   {
     artist: 'The Weeknd',
